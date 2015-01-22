@@ -1,5 +1,6 @@
 coverage==3.7.1
 django-filer
+django==1.6.10
 django-hvad
 django-phonenumber-field
 django-sortedm2m
