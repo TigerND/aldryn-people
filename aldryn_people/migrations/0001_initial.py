@@ -12,7 +12,7 @@ import sortedm2m.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('cms', '0003_auto_20140926_2347'),
+        ('cms', '0011_auto_20150419_1006'),
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
         ('filer', '__first__'),
     ]
